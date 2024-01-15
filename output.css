@@ -1342,7 +1342,7 @@ video {
 }
 
 .from-indigo-600 {
-  --tw-gradient-from: #4f46e5;
+  --tw-gradient-from: #141E61;
   --tw-gradient-to: rgb(79 70 229 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }

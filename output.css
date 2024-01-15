@@ -1336,7 +1336,7 @@ video {
 }
 
 .from-indigo-500 {
-  --tw-gradient-from: #6366f1;
+  --tw-gradient-from: #5a5a8d;
   --tw-gradient-to: rgb(99 102 241 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }

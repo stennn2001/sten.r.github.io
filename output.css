@@ -1051,7 +1051,7 @@ video {
 }
 
 .rounded-lg {
-  border-radius: 0.5rem;
+  border-radius: 2.5rem;
 }
 
 .rounded-full {
@@ -1261,7 +1261,10 @@ video {
 
 .bg-indigo-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(49 46 129 / var(--tw-bg-opacity));
+  background-color: rgb(39 39 39 / var(--tw-bg-opacity));
+  border: white;
+  border-style: inset;
+  border-width: thin;
 }
 
 .bg-indigo-800 {
@@ -1344,7 +1347,7 @@ video {
 .from-indigo-600 {
   --tw-gradient-from: #5c5e6b;
   --tw-gradient-to: rgba(84, 83, 102, 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  --tw-gradient-stops: #3f3939, #0F0F0F;
 }
 
 .from-indigo-700 {

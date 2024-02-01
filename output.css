@@ -1046,6 +1046,10 @@ video {
   overflow-y: auto;
 }
 
+.text-align {
+  text-align: center;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
